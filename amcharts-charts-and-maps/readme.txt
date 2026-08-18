@@ -2,9 +2,9 @@
 Contributors: martynasma
 Tags: charts, maps, amcharts, ammap, javascript charts, javascript maps
 Requires at least: 3.5
-Tested up to: 7.0.0
-Version: 1.4.6
-Stable tag: 1.4.6
+Tested up to: 7.1.0
+Version: 1.4.7
+Stable tag: 1.4.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -136,6 +136,10 @@ Yup. It fully supports WPML. You can create language-specific versions of the ch
 7. The chart shortcodes are replaced with the actual charts when page renders.
 
 == Changelog ==
+
+= 1.4.7 =
+* Tested up to WP 7.1.0.
+* Charts and maps can now also be inserted using a native block ("amCharts: Chart or Map") in the block editor, in addition to the legacy block and the classic editor button.
 
 = 1.4.6 =
 * Tested up to WP 7.0.0.
